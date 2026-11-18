@@ -2,7 +2,7 @@
 
 A COMP 211 experiment in C. The program applies the same one-byte key to every byte of a word, prints the result in hexadecimal, then runs the same function again to recover the word.
 
-[Presentation with speaker notes](xor-slides.pptx) · [C source](xor_demo.c)
+[C source](xor_demo.c)
 
 ## Run the demo
 
